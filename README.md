@@ -1,6 +1,6 @@
 **基于全志T113-S3自制GBA开源游戏掌机**
 
-视频介绍 []()
+视频介绍 [https://www.bilibili.com/video/BV1Gu411V7ar/](https://www.bilibili.com/video/BV1Gu411V7ar/)
 
 图片展示
 
